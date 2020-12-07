@@ -18,7 +18,7 @@ Built using Blender 2.90.1, Godot 3.2.2
 None
 
 ## Extra Credit
-None
+Added armature to ragdoll.blend
 
 ## Created by 
 Elliot Craig
